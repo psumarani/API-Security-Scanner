@@ -129,9 +129,8 @@ See [docs/validating-with-crapi.md](docs/validating-with-crapi.md). In short: ru
 
 ## Screenshots
 
-![alt text](1.png)
-
-![alt text](2.png)
+![Dashboard Overview](1.png)
+![Scan Results](2.png)
 
 ## Example report structure (JSON)
 ```json
