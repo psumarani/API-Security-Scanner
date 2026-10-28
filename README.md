@@ -158,3 +158,9 @@ See [docs/validating-with-crapi.md](docs/validating-with-crapi.md). In short: ru
 
 ## License
 MIT - see [LICENSE](LICENSE).
+
+## Author
+
+**Prasad Umarani**
+
+[GitHub: @psumarani](https://github.com/psumarani) · [LinkedIn profile](https://www.linkedin.com/in/prasad-umarani/)
