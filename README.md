@@ -24,7 +24,7 @@ non-destructive checks, review evidence-backed findings, and export HTML/JSON re
 * BOLA and BFLA need test accounts and a permission model that **you** provide; identifiers are never guessed.
 * Absence of findings does not mean an API is secure. "Potential" findings need manual verification.
 * Single-instance design: the rate limiter and scan runner are in-process (no Redis/Celery by design).
-* Developed and tested on Python 3.12 / Node 22 with PostgreSQL 16. See "What was verified" in the release notes below.
+* Developed and tested with Python 3.12, Node.js 22, and PostgreSQL 16.
 
 ## Architecture
 ```mermaid
