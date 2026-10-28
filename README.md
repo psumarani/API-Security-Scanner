@@ -128,13 +128,10 @@ See [docs/validating-with-crapi.md](docs/validating-with-crapi.md). In short: ru
 | API10 Unsafe Consumption | Unsupported | - | Manual |
 
 ## Screenshots
-Add your own after running the app (suggested: dashboard, new scan, scan progress, finding detail, report):
 
-| Screen | File |
-|---|---|
-| Dashboard | `docs/screenshots/dashboard.png` |
-| New scan | `docs/screenshots/new-scan.png` |
-| Finding detail | `docs/screenshots/finding.png` |
+![alt text](1.png)
+
+![alt text](2.png)
 
 ## Example report structure (JSON)
 ```json
